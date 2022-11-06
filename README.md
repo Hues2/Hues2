@@ -20,7 +20,7 @@
     <h3>About me:</h3>
     <ul>
       <li>Junior iOS App Developer</li>
-      <li>Currently carrying out Sean Allen's iOS Take Home Porject course</li>
+      <li>Currently working on a personal project that is an iOS app that allows users to keep track of their spending. Check out the Spenny repository for mor info!</li>
       <li>I'm also learning about Swift Concurrency, and how to use it in SwiftuI</li>
     </ul>
   </div>
