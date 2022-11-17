@@ -19,8 +19,9 @@
   <div id="aboutMe">
     <h3>About me:</h3>
     <ul>
-      <li>I'm currently a Junior iOS App Developer at Networld Sports</li>
-      <li>Currently working on a personal project that is an iOS app that allows users to keep track of their spending. Check out the Spenny repository for mor info!</li>
+      <li> 👨🏼‍💻 I'm currently a Junior iOS App Developer at Networld Sports</li>
+      <li> 📱 Currently working on a personal project that is an iOS app that allows users to keep track of their spending. Check out the Spenny repository for mor info!</li>
+      <li> 🔗 Here is my LinkedIn profile: https://www.linkedin.com/in/greg-ross-b155a1233<li>
     </ul>
   </div>
 
