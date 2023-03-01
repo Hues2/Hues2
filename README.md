@@ -19,7 +19,8 @@
   <div id="aboutMe">
     <h3>About me:</h3>
     <ul>
-      <li> 👨🏼‍💻 Junior iOS App Developer at Networld Sports</li>
+      <li> 👨🏼‍💻 I'm a Graduate Mobile App Developer at Sykes Holiday Cottages</li>
+      <li> 👨🏼‍💻 I used to work as a Junior iOS App Developer at Networld Sports</li>
       <li> 📱 Currently working on a personal project that is an iOS app that allows users to keep track of their spending. Check out the Spenny repository for more info!</li>
       <li> 🔗 Here is my LinkedIn profile: https://www.linkedin.com/in/greg-ross-b155a1233 </li>
     </ul>
