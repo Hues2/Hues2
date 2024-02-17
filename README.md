@@ -21,7 +21,7 @@
     <ul>
       <li> 👨🏼‍💻 I'm a Mobile App Developer at Sykes Holiday Cottages</li>
       <li> 👨🏼‍💻 I used to work as a Graduate iOS App Developer at Networld Sports</li>
-      <li> 📱 Currently working on a couple of personal projects (iOS apps). Check out the Spenny and TheMovies repositories for more info!</li>
+      <li> 📱 Currently working on a simple 3D game for iOS</li>
       <li> 🔗 Here is my LinkedIn profile: https://www.linkedin.com/in/greg-andrew-ross, feel free to contact me! </li>
     </ul>
   </div>
