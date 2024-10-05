@@ -15,7 +15,7 @@
 - 👨🏼‍💻 I'm a **Mobile App Developer** at **Sykes Holiday Cottages**
 - 👨🏼‍💻 Former **Graduate iOS App Developer** at **Networld Sports**
 - 💻 Working on an **iOS developer tool for macOS**: [**Easy Defaults**](https://apps.apple.com/gb/app/easy-defaults/id6612588800?mt=12)
-- 🎮 Currently developing an **iOS game** using **SwiftUI**, **CoreData**, and **GameKit**
+- 📱 Currently developing an **iOS game** using **SwiftUI**, **CoreData**, and **GameKit**
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/greg-andrew-ross)
 
 ---
