@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  **# 👋 Hi, I'm Greg**
+  ### 👋 Hi, I'm Greg
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Greg%20Andrew%20Ross-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greg-ross-b155a1233/)](https://www.linkedin.com/in/greg-ross-b155a1233/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Greg%20Andrew%20Ross-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/greg-ross-b155a1233/)
   ![Profile Views](https://komarev.com/ghpvc/?username=Hues2&style=flat-square&color=blue)
 </div>
 
@@ -32,7 +32,8 @@
 
 **🌱 Currently Learning**
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/fa7bebc4-82ea-4838-9945-5a3b39d62d77" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/44b62eb4-7756-49b5-85c9-e6c25390bf22" width="200" />
 </p>
