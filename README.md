@@ -21,7 +21,7 @@
     <ul>
       <li> 👨🏼‍💻 I'm a Mobile App Developer at Sykes Holiday Cottages</li>
       <li> 👨🏼‍💻 I used to work as a Graduate iOS App Developer at Networld Sports</li>
-      <li> 📱 Currently working on an iOS developer tool for macOS</li>
+      <li> 📱 Currently working on an iOS developer tool for macOS: <a href="https://apps.apple.com/gb/app/easy-defaults/id6612588800?mt=12"></a></li>
       <li> 🔗 Here is my LinkedIn profile: https://www.linkedin.com/in/greg-andrew-ross, feel free to contact me! </li>
     </ul>
   </div>
