@@ -2,13 +2,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  # 👋 Hi, I'm Greg
+  **# 👋 Hi, I'm Greg**
 
   [![LinkedIn Badge](https://img.shields.io/badge/-Greg%20Andrew%20Ross-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greg-ross-b155a1233/)](https://www.linkedin.com/in/greg-ross-b155a1233/)
   ![Profile Views](https://komarev.com/ghpvc/?username=Hues2&style=flat-square&color=blue)
 </div>
 
-## About Me:
+---
+
+**About Me**
 
 - 👨🏼‍💻 I'm a **Mobile App Developer** at **Sykes Holiday Cottages**
 - 👨🏼‍💻 Former **Graduate iOS App Developer** at **Networld Sports**
@@ -16,7 +18,9 @@
 - 🎮 Currently developing an **iOS game** using **SwiftUI**, **CoreData**, and **GameKit**
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/greg-andrew-ross)
 
-## 📊 GitHub Stats
+---
+
+**📊 GitHub Stats**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hues2&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +28,9 @@
 [![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hues2&show_icons=true&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-## 🌱 Currently Learning
+---
+
+**🌱 Currently Learning**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fa7bebc4-82ea-4838-9945-5a3b39d62d77" width="200" />
