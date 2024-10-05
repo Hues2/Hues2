@@ -34,7 +34,17 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hues2)](https://github.com/anuraghazra/github-readme-stats)
 --->
-  
+
+  <div id="certificates">
+    <h3>Learning:</h3>
+    <ul>
+      <li> 👨🏼‍💻 I'm a Mobile App Developer at Sykes Holiday Cottages</li>
+      <li> 👨🏼‍💻 I used to work as a Graduate iOS App Developer at Networld Sports</li>
+      <li> 📱 Working on an iOS developer tool for macOS: Check it out here! <a href="https://apps.apple.com/gb/app/easy-defaults/id6612588800?mt=12">Easy Defaults</a></li>
+      <li> 👨🏼‍💻 Currently developing an iOS game using SwiftUI, CoreData and GameKit</li>
+      <li> 🔗 Here is my LinkedIn profile: <a href="https://www.linkedin.com/in/greg-andrew-ross">Greg Andrew Ross</a>, feel free to contact me! </li>
+    </ul>
+</div>
 
 
 
