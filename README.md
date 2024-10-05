@@ -35,9 +35,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hues2)](https://github.com/anuraghazra/github-readme-stats)
 --->
 <div id="learning">
-  **Learning:**
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/fa7bebc4-82ea-4838-9945-5a3b39d62d77" width="200" />
-  <img src="https://github.com/user-attachments/assets/44b62eb4-7756-49b5-85c9-e6c25390bf22" width="200" />
-</p>
+  <span style="font-weight: bold; font-size: 24px;">Learning:</span>
+  <p float="left">
+    <img src="https://github.com/user-attachments/assets/fa7bebc4-82ea-4838-9945-5a3b39d62d77" width="200" />
+    <img src="https://github.com/user-attachments/assets/44b62eb4-7756-49b5-85c9-e6c25390bf22" width="200" />
+  </p>
 </div>
