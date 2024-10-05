@@ -4,7 +4,7 @@
   
   ### 👋 Hi, I'm Greg
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Greg%20Andrew%20Ross-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/greg-ross-b155a1233/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Greg%20Andrew%20Ross-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/greg-andrew-ross)
   ![Profile Views](https://komarev.com/ghpvc/?username=Hues2&style=flat-square&color=blue)
 </div>
 
