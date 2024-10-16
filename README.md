@@ -14,8 +14,8 @@
 
 - 👨🏼‍💻 I'm a **Mobile App Developer** at **Sykes Holiday Cottages**
 - 👨🏼‍💻 Former **Graduate iOS App Developer** at **Networld Sports**
-- 💻 Check out my macOS application on the app store here: [**Easy Defaults**](https://apps.apple.com/gb/app/easy-defaults/id6612588800?mt=12)
 - 📱 Check out my iOS application on the app store here: [**Perfect Second**](https://apps.apple.com/gb/app/perfect-second/id6686406316)
+- 💻 Check out my macOS application on the app store here: [**Easy Defaults**](https://apps.apple.com/gb/app/easy-defaults/id6612588800?mt=12)
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/greg-andrew-ross)
 
 ---
