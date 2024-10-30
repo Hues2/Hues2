@@ -9,7 +9,7 @@
 </div>
 
 ---
- 
+
 **About Me**
 
 - 👨🏼‍💻 I'm a **Mobile App Developer** at Sykes Holiday Cottages
