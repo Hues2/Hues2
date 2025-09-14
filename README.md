@@ -14,7 +14,9 @@
 
 - 👨🏼‍💻 I'm a **Mobile App Developer** at Sykes Holiday Cottages
 - 👨🏼‍💻 Former **Graduate iOS App Developer** at Networld Sports
-- 📱 Check out my iOS application on the App Store here: [**Perfect Second**](https://apps.apple.com/gb/app/perfect-second/id6686406316)
+- 📱 Check out my iOS application on the App Store here: [**CardStash**](https://apps.apple.com/gb/app/loyalty-card-wallet-cardstash/id6748236659)
+- 📱 Check out my iOS application on the App Store here: [**Tap & Time**](https://apps.apple.com/gb/app/perfect-second/id6686406316)
+- 📱 Check out my iOS application on the App Store here: [**Color Identifier**](https://apps.apple.com/gb/app/color-identifier-lenswatch/id6746069942)
 - 💻 Check out my macOS application on the App Store here: [**Easy Defaults**](https://apps.apple.com/gb/app/easy-defaults/id6612588800?mt=12)
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/greg-andrew-ross)
 
